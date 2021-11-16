@@ -19,6 +19,98 @@
             "accessibility": true
         }
     ],
+    "productLocations": [
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 1
+        },
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 2
+        },
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 3
+        },
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 4
+        },
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 5
+        },
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 6
+        },
+        {
+            "id": 1,
+            "locationId": 3,
+            "productId": 7
+        },
+        {
+            "id": 1,
+            "locationId": 3,
+            "productId": 8
+        },
+        {
+            "id": 1,
+            "locationId": 3,
+            "productId": 9
+        },
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 10
+        },
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 11
+        },
+        {
+            "id": 1,
+            "locationId": 1,
+            "productId": 12
+        },
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 13
+        },
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 14
+        },
+        {
+            "id": 1,
+            "locationId": 2,
+            "productId": 15
+        },
+        {
+            "id": 1,
+            "locationId": 3,
+            "productId": 16
+        },
+        {
+            "id": 1,
+            "locationId": 3,
+            "productId": 17
+        },
+        {
+            "id": 1,
+            "locationId": 3,
+            "productId": 18
+        }
+    ],
     "employees": [
         {
             "id": 1,
@@ -54,33 +146,27 @@
     "productTypes": [
         {
             "id": 1,
-            "category": "Gummies",
-            "locationId": 1
+            "type": "Gummies"
         },
         {
             "id": 2,
-            "category": "Chocolates",
-            "locationId": 2
+            "type": "Chocolates"
         },
         {
             "id": 3,
-            "category": "Sour",
-            "locationId": 3
+            "type": "Sour"
         },
         {
             "id": 4,
-            "category": "Hard",
-            "locationId": 1
+            "type": "Hard"
         },
         {
             "id": 1,
-            "category": "Gum",
-            "locationId": 2
+            "type": "Gum"
         },
         {
             "id": 1,
-            "category": "Fudge",
-            "locationId": 3
+            "type": "Fudge"
         }
     ],
     "products": [
@@ -88,126 +174,108 @@
             "id": 1,
             "candy": "Swedish Fish",
             "price": 3.99,
-            "locationId": 1,
             "productTypeId": 1 
         },
         {
             "id": 2,
             "candy": "Peach Rings",
             "price": 1.99,
-            "locationId": 1,
             "productTypeId": 1
         },
         {
             "id": 3,
             "candy": "Gummy Bears",
             "price": 0.99,
-            "locationId": 1,
             "productTypeId": 1
         },
         {
             "id": 4,
             "candy": "Hershey Kisses",
             "price": 4.99,
-            "locationId": 2,
             "productTypeId": 2 
         },
         {
             "id": 5,
             "candy": "Goo-Goo Clusters",
             "price": 1.99,
-            "locationId": 2,
             "productTypeId": 2
         },
         {
             "id": 6,
             "candy": "Cadbury Creme Eggs",
             "price": 0.59,
-            "locationId": 2, 
             "productTypeId": 2
         },
         {
             "id": 7,
             "candy": "Sour Patch Kids",
             "price": 4.99,
-            "locationId": 3,
             "productTypeId": 3
         },
         {
             "id": 8,
             "candy": "Sour Gummy Worms",
             "price": 1.99,
-            "locationId": 3,
             "productTypeId": 3
         },
         {
             "id": 9,
             "candy": "Warheads",
             "price": 0.45,
-            "locationId": 3,
             "productTypeId": 3
         },
         {
             "id": 10,
             "candy": "Jolly Ranchers",
-            "price": 0.59,
-            "locationId": 1, 
+            "price": 0.59, 
             "productTypeId": 4
         },
         {
             "id": 11,
             "candy": "Peppermints",
             "price": 0.01,
-            "locationId": 1,
             "productTypeId": 4
         },
         {
             "id": 12,
             "candy": "Werther's",
             "price": 5.99,
-            "locationId": 1,
             "productTypeId": 4
         },
         {
             "id": 13,
             "candy": "Bazooka Bubblegum",
             "price": 0.50,
-            "locationId": 2,
             "productTypeId": 5
         },
         {
             "id": 14,
             "candy": "Double Bubble",
             "price": 0.99,
-            "locationId": 2,
             "productTypeId": 5
         },
         {
             "id": 15,
             "candy": "Blow Pops",
             "price": 0.99,
-            "locationId": 2,
             "productTypeId": 5
         },
         {
             "id": 16,
             "candy": "Chocolate",
             "price": 2.99,
-            "locationId": 3,
             "productTypeId": 6
         },
         {
             "id": 17,
             "candy": "Salted Caramel",
             "price": 2.99,
-            "locationId": 3,
             "productTypeId": 6
         },
         {
             "id": 18,
             "candy": "Peanut Butter",
             "price": 2.99,
-            "locationId": 3,
             "productTypeId": 6
         }
     ],
@@ -216,22 +284,19 @@
             "id": 1,
             "name": "Mabel Parker",
             "email": "mabepar@geocities.com",
-            "birthday": "03/31/1971",
-            "locationId": 1
+            "birthday": "03/31/1971"
         },
         {
             "id": 2,
             "name": "Gerson Oberbrunner",
             "email": "geober@msn.com",
-            "birthday": "06/24/1991",
-            "locationId": 2
+            "birthday": "06/24/1991"
         },
         {
             "id": 3,
             "name": "Braeden Okuneva",
             "email": "braeden@aol.com",
-            "birthday": "10/11/2002",
-            "locationId": 3
+            "birthday": "10/11/2002"
         }
     ],
     "purchases": [
@@ -239,16 +304,14 @@
             "id": 1,
             "employeeId": 2,
             "customerId": 1,
-            "productId": 9,
-            "locationId": 3,
+            "productLocationId": 1,
             "timestamp": 134345657
         },
         {
             "id": 2,
             "employeeId": 3,
             "customerId": 2,
-            "productId": 15,
-            "locationId": 2,
+            "productLocationId": 3,
             "timestamp": 76856744
         }
     ]
