@@ -8,14 +8,14 @@
       "accessibility": true
     },
     {
-      "id": 3,
+      "id": 2,
       "address": "244 Macey Shoal",
       "name": "Kandy Korner Express",
       "squareFeet": 800,
       "accessibility": false
     },
     {
-      "id": 4,
+      "id": 3,
       "address": "587 Braeden Mountain",
       "name": "King Kandy Korner",
       "squareFeet": 2000,
