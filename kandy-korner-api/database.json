@@ -118,32 +118,32 @@
     {
       "id": 1,
       "name": "Blake Okuneva",
-      "locationId": 1
+      "locationId": "The Original Kandy Korner"
     },
     {
       "id": 2,
       "name": "Rey Gerhold",
-      "locationId": 1
+      "locationId": "The Original Kandy Korner"
     },
     {
       "id": 3,
       "name": "Winona Volkman",
-      "locationId": 2
+      "locationId": "Kandy Korner Express"
     },
     {
       "id": 4,
       "name": "Leonard Padberg",
-      "locationId": 2
+      "locationId": "Kandy Korner Express"
     },
     {
       "id": 5,
       "name": "Donny Hahn",
-      "locationId": 3
+      "locationId": "King Kandy Korner"
     },
     {
       "id": 6,
       "name": "Jensen Stanton",
-      "locationId": 3
+      "locationId": "King Kandy Korner"
     },
     {
       "name": "Haley Wilson",
